@@ -110,4 +110,4 @@ Stated plainly, as in the paper:
 
 ## License
 
-MIT — see `LICENSE`.
+AMIT — see `LICENSE`.
