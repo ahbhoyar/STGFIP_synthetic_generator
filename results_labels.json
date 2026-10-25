@@ -1,0 +1,57 @@
+{
+ "kappa_sensitivity": {
+  "2.0": {
+   "episodes": 12,
+   "hits": 36,
+   "median_min": 37.9
+  },
+  "3.0": {
+   "episodes": 11,
+   "hits": 22,
+   "median_min": 35.6
+  },
+  "5.0": {
+   "episodes": 9,
+   "hits": 16,
+   "median_min": 35.9
+  }
+ },
+ "censoring": {
+  "tier2_episodes": 37,
+  "cascade_capable": 30,
+  "cascaded": 11,
+  "right_censored": 19,
+  "censoring_rate": 0.633,
+  "dropped_by_min5_rule": 0,
+  "median_observation_window_min": 49.7,
+  "episode_length_min": 95.6
+ },
+ "splits": {
+  "train": {
+   "episodes": 57,
+   "cascaded_episodes": 7,
+   "cascaded_samples": 6334,
+   "origin_subsystems": [
+    "AOCS",
+    "THM"
+   ]
+  },
+  "val": {
+   "episodes": 14,
+   "cascaded_episodes": 1,
+   "cascaded_samples": 1633,
+   "origin_subsystems": [
+    "EPS"
+   ]
+  },
+  "test": {
+   "episodes": 25,
+   "cascaded_episodes": 3,
+   "cascaded_samples": 2852,
+   "origin_subsystems": [
+    "AOCS",
+    "EPS"
+   ]
+  }
+ }
+}

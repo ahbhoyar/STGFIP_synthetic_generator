@@ -1,0 +1,24 @@
+{
+ "nominal": {
+  "asm": 250,
+  "crc_ok": 250,
+  "rs_corrected": 0,
+  "rs_uncorrectable": 0,
+  "seq_gaps": 0,
+  "packets": 2000,
+  "cadus": 250
+ },
+ "cadu_bytes": 1024,
+ "roundtrip_rel_err": 7.627179784736331e-06,
+ "quant_bound": 7.629510948348211e-06,
+ "faulted": {
+  "asm": 250,
+  "crc_ok": 221,
+  "rs_corrected": 31,
+  "rs_uncorrectable": 0,
+  "seq_gaps": 2,
+  "packets": 2000,
+  "cadus": 250,
+  "frames_lost": 0
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "corpus_seed": 20260726,
+ "split_seed": 3,
+ "bootstrap_seed": 0,
+ "bootstrap_resamples": 400,
+ "model_random_state": 0,
+ "note": "RK4 h=1 s; detector decides once per 12 s"
+}

@@ -1,0 +1,77 @@
+{
+ "n_episodes": 11,
+ "loeo_acc": 1.0,
+ "majority_acc": 0.45454545454545453,
+ "ci": [
+  0.741,
+  1.0
+ ],
+ "per_episode": [
+  [
+   22,
+   "AOCS",
+   "AOCS",
+   true
+  ],
+  [
+   28,
+   "THM",
+   "THM",
+   true
+  ],
+  [
+   31,
+   "THM",
+   "THM",
+   true
+  ],
+  [
+   32,
+   "EPS",
+   "EPS",
+   true
+  ],
+  [
+   34,
+   "AOCS",
+   "AOCS",
+   true
+  ],
+  [
+   50,
+   "EPS",
+   "EPS",
+   true
+  ],
+  [
+   60,
+   "AOCS",
+   "AOCS",
+   true
+  ],
+  [
+   79,
+   "EPS",
+   "EPS",
+   true
+  ],
+  [
+   85,
+   "AOCS",
+   "AOCS",
+   true
+  ],
+  [
+   88,
+   "AOCS",
+   "AOCS",
+   true
+  ],
+  [
+   91,
+   "THM",
+   "THM",
+   true
+  ]
+ ]
+}
